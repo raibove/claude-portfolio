@@ -1,5 +1,5 @@
 import './App.css'
-import Portfolio from './portfolio'
+import Portfolio from './PortfolioPage'
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import PrivacyPolicy from './PrivacyPolicy';
 import Support from './Support';
